@@ -11,6 +11,29 @@ A simple CLI script to download YouTube videos as MP3 audio files.
 
 1. Clone this repository or download the script files.
 
+```
+git clone https://github.com/RaheesAhmed/YouTube-MP3-Downloader.git
+
+```
+
+Navigate to the directory:
+
+```
+cd YouTube-MP3-Downloader
+```
+
+create a virtual environment:
+
+```
+python -m venv venv
+```
+
+Activate the virtual environment:
+
+```
+venv/bin/activate
+```
+
 2. Install the required dependencies:
 
 ```bash
